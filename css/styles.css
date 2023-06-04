@@ -96,6 +96,9 @@ img {
   display: flex;
   gap: 40px;
   flex-grow: 1;
+}
+
+.header-list-item {
   padding: 24px 0;
 }
 

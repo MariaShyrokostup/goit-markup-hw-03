@@ -196,7 +196,6 @@ img {
 }
 
 .privilages {
-  background: var(--light-background);
   padding: 120px 0;
 }
 
@@ -236,7 +235,6 @@ img {
 }
 
 .activities {
-  background: var(--light-background);
   padding-bottom: 120px;
 }
 
@@ -285,10 +283,25 @@ img {
   text-align: center;
 }
 
+.customers {
+  padding: 120px 0;
+}
+
+.customers-container {
+}
+
+.customers-list {
+  gap: 24px;
+}
+
+.customers-item {
+}
+
 .footer {
   padding: 100px 0;
   background: var(--title-color);
 }
+
 .footer-text {
   max-width: 264px;
   line-height: 1.5;
@@ -310,7 +323,6 @@ img {
 }
 
 .portfolio {
-  background: var(--light-background);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
